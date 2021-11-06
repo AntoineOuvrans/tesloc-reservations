@@ -1,0 +1,20 @@
+{
+    "dailyPrice": {
+        "low": 139,
+        "high": 159
+    },
+    "reductions" : [
+        {
+            "days": 2,
+            "percentage":5
+        },
+        {
+            "days": 4,
+            "percentage":10
+        },
+        {
+            "days": 7,
+            "percentage":15
+        }
+    ]
+}
