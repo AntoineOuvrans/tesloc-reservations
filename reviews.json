@@ -1,7 +1,7 @@
 [
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.",
+        "avatarSrc": "",
         "content": "<p> Super voiture, et super propriétaire, petite explication bien faite avant le départ, je recommande !</p>",
         "date": "06/06/2022",
         "author": "Mickaël",
@@ -10,7 +10,7 @@
     
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+        "avatarSrc": "",
         "content": "<p> Nous avons récupéré le véhicule à l’aéroport de Rennes pour le week-end, livraison par une personne extrêmement professionnelle, service 5 étoiles.</p>",
         "date": "03/06/2022",
         "author": "Matthieu",
@@ -18,7 +18,7 @@
     },
     {
     "rating": 5,
-    "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+    "avatarSrc": "",
     "content": "<p> La location c’est très bien passée ! L’équipe à été à l'écoute pour une très bonne expérience. Voiture parfaite !</p>",
     "date": "12/02/2022",
     "author": "Benjamin",
@@ -26,7 +26,7 @@
 },
 {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/greta-thunberg.jpg",
+        "avatarSrc": "",
         "content": "<p> Super week-end découverte : la Tesla est impeccable et impressionnante, et l'équipe est réactive, arrangeante ( possibilité de livraison ) et surtout passionnée par ce petit bijou de technologie ! </p>",
         "date": "17/01/2022",
         "author": "Manon",
@@ -34,7 +34,7 @@
     },
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+        "avatarSrc": "",
         "content": "<p> Très belle voiture et bien entretenue ! C’est un plaisir de rouler dans ce genre de véhicule. </p>",
         "date": "30/09/2021",
         "author": "Guillaume",
@@ -42,7 +42,7 @@
     },
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+        "avatarSrc": "",
         "content": "<p> Ce petit bolide est très agréable, confortable et facile à prendre en main, conforme à sa description. </p>",
         "date": "13/08/2021",
         "author": "Hubert",
@@ -50,7 +50,7 @@
     },
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+        "avatarSrc": "",
         "content": "<p> Loueur au top , disponibilité, sympathie , sérieux. Que dire de la voiture juste magique. Merci </p>",
         "date": "04/08/2021",
         "author": "Julien",
@@ -58,7 +58,7 @@
     },
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+        "avatarSrc": "",
         "content": "<p> Superbe expérience. Véhicule au top. Le loueur a été aux petits soins pour s’assurer que tout se passe au mieux. </p>",
         "date": "21/07/2021",
         "author": "Vannak",
@@ -66,7 +66,7 @@
     },
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+        "avatarSrc": "",
         "content": "<p> Super loueur, patient, un vrai sens du service - encore merci </p>",
         "date": "25/06/2021",
         "author": "Robert",
@@ -74,7 +74,7 @@
     },
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+        "avatarSrc": "",
         "content": "<p> Location professionnelle, rien à redire. </p>",
         "date": "21/06/2021",
         "author": "Marius",
@@ -82,7 +82,7 @@
     },
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+        "avatarSrc": "",
         "content": "<p> Utilisé 3 jours pour un week end. </p>",
         "date": "28/05/2021",
         "author": "Jean-Claude",
@@ -90,7 +90,7 @@
     },
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/dogecoin.jpg",
+        "avatarSrc": "",
         "content": "<p> Superbe expérience. </p>",
         "date": "05/05/2021",
         "author": "Sofiane",
@@ -98,7 +98,7 @@
     },
     {
         "rating": 5,
-        "avatarSrc": "/imgs/avatars/elon-musk-smoke-weed-everyday.jpg",
+        "avatarSrc": "",
         "content": "<p> Très bien ! </p>",
         "date": "16/03/2021",
         "author": "Loic",
