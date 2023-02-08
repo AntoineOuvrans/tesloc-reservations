@@ -1,20 +1,20 @@
 {
     "dailyPrice": {
         "low": 95,
-        "high": 120
+        "high": 95
     },
     "reductions" : [
         {
             "days": 2,
-            "percentage":5
+            "percentage":3
         },
         {
             "days": 4,
-            "percentage":7
+            "percentage":5
         },
         {
             "days": 7,
-            "percentage":10
+            "percentage":7
         }
     ]
 }
