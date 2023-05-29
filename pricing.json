@@ -1,7 +1,7 @@
 {
     "dailyPrice": {
-        "low": 110,
-        "high": 120
+        "low": 100,
+        "high": 110
     },
     "reductions" : [
         {
