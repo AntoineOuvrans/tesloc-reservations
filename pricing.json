@@ -6,15 +6,15 @@
     "reductions" : [
         {
             "days": 2,
-            "percentage":3
+            "percentage":0
         },
         {
             "days": 4,
-            "percentage":5
+            "percentage":0
         },
         {
             "days": 7,
-            "percentage":7
+            "percentage":0
         }
     ]
 }
