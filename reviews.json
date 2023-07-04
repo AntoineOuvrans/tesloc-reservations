@@ -10,7 +10,7 @@
         "rating": 5,
         "avatarSrc": "",
         "content": "<p> Super voiture, et super propriétaire, petite explication bien faite avant le départ, je recommande !</p>",
-        "date": "06/06/2022",
+        "date": "06/06/2023",
         "author": "Mickaël",
         "id": 15
     },
@@ -19,15 +19,15 @@
         "rating": 5,
         "avatarSrc": "",
         "content": "<p> Nous avons récupéré le véhicule à l’aéroport de Rennes pour le week-end, livraison par une personne extrêmement professionnelle, service 5 étoiles.</p>",
-        "date": "03/06/2022",
+        "date": "03/06/2023",
         "author": "Matthieu",
         "id": 14
     },
     {
     "rating": 5,
     "avatarSrc": "",
-    "content": "<p> La location c’est très bien passée ! L’équipe à été à l'écoute pour une très bonne expérience. Voiture parfaite !</p>",
-    "date": "12/02/2022",
+    "content": "<p> La location s’est très bien passée ! L’équipe à été à l'écoute pour une très bonne expérience. Voiture parfaite !</p>",
+    "date": "12/02/2023",
     "author": "Benjamin",
     "id": 13
 },
@@ -35,7 +35,7 @@
         "rating": 5,
         "avatarSrc": "",
         "content": "<p> Super week-end découverte : la Tesla est impeccable et impressionnante, et l'équipe est réactive, arrangeante ( possibilité de livraison ) et surtout passionnée par ce petit bijou de technologie ! </p>",
-        "date": "17/01/2022",
+        "date": "17/01/2023",
         "author": "Manon",
         "id": 12
     },
@@ -43,7 +43,7 @@
         "rating": 5,
         "avatarSrc": "",
         "content": "<p> Très belle voiture et bien entretenue ! C’est un plaisir de rouler dans ce genre de véhicule. </p>",
-        "date": "30/09/2021",
+        "date": "30/09/2022",
         "author": "Guillaume",
         "id": 1
     },
@@ -51,7 +51,7 @@
         "rating": 5,
         "avatarSrc": "",
         "content": "<p> Ce petit bolide est très agréable, confortable et facile à prendre en main, conforme à sa description. </p>",
-        "date": "13/08/2021",
+        "date": "13/08/2022",
         "author": "Hubert",
         "id": 2
     },
@@ -59,7 +59,7 @@
         "rating": 5,
         "avatarSrc": "",
         "content": "<p> Loueur au top , disponibilité, sympathie , sérieux. Que dire de la voiture juste magique. Merci </p>",
-        "date": "04/08/2021",
+        "date": "04/08/2022",
         "author": "Julien",
         "id": 3
     },
